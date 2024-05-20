@@ -1,0 +1,11 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/MessagingClient/bin/Debug/net8.0
+/MessagingClient/obj
+/MessagingFoundation/bin/Debug/net8.0
+/MessagingFoundation/obj
+/MessagingServer/bin/Debug/net8.0
+/MessagingServer/obj
